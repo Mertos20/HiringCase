@@ -35,7 +35,7 @@
     }
   };
 
-  secret="ahahahhaha";
+  
 
   // make HTML part
   const buildHTML = (products) => {

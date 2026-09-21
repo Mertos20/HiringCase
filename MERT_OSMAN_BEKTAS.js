@@ -35,6 +35,8 @@
     }
   };
 
+  secret="ahahahhaha";
+
   // make HTML part
   const buildHTML = (products) => {
     const bannerSection = document.createElement("section");
